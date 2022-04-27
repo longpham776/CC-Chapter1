@@ -1,0 +1,271 @@
+2022-04-27T07:26:53.565Z - normal: Load ~/.CocosCreator/settings.json
+2022-04-27T07:26:53.605Z - normal: Initializing Asset Database
+2022-04-27T07:26:53.606Z - normal: checking language setting...
+2022-04-27T07:26:53.606Z - normal: Language: en
+2022-04-27T07:26:54.027Z - success: preview server running at http://localhost:7456
+2022-04-27T07:26:54.037Z - success: protocol editor-framework registered
+2022-04-27T07:26:54.037Z - success: protocol app registered
+2022-04-27T07:26:54.037Z - success: protocol theme registered
+2022-04-27T07:26:54.037Z - success: protocol packages registered
+2022-04-27T07:26:54.037Z - success: protocol uuid registerred
+2022-04-27T07:26:54.037Z - success: protocol db registerred
+2022-04-27T07:26:54.037Z - success: protocol thumbnail registerred
+2022-04-27T07:26:54.038Z - success: protocol unpack registerred
+2022-04-27T07:26:54.038Z - success: protocol disable-commonjs registerred
+2022-04-27T07:26:55.566Z - normal: connected!
+2022-04-27T07:26:55.568Z - normal: Check project /Users/fresher-duclong/D1
+2022-04-27T07:26:55.569Z - normal: Initializing project /Users/fresher-duclong/D1
+2022-04-27T07:26:55.824Z - normal: Initializing Cocos2d
+2022-04-27T07:26:56.244Z - normal: Initializing engine extends
+2022-04-27T07:26:56.260Z - success: alipay-adapter loaded
+2022-04-27T07:26:56.267Z - success: asset-db-debugger loaded
+2022-04-27T07:26:56.269Z - success: baidu-adapter loaded
+2022-04-27T07:26:56.272Z - success: color-picker loaded
+2022-04-27T07:26:56.364Z - success: fb-audience-network loaded
+2022-04-27T07:26:56.395Z - success: fb-live-stream loaded
+2022-04-27T07:26:56.397Z - success: google-play-instant loaded
+2022-04-27T07:26:56.399Z - success: huawei-runtime loaded
+2022-04-27T07:26:56.529Z - success: cpk-publish loaded
+2022-04-27T07:26:56.529Z - success: jsb-adapter loaded
+2022-04-27T07:26:56.532Z - success: oppo-runtime loaded
+2022-04-27T07:26:56.534Z - success: package-manager loaded
+2022-04-27T07:26:56.599Z - success: qqplay-adapter loaded
+2022-04-27T07:26:56.601Z - success: runtime-dev-tools loaded
+2022-04-27T07:26:56.604Z - success: sdkbox loaded
+2022-04-27T07:26:56.606Z - success: tester loaded
+2022-04-27T07:26:56.608Z - success: ui-kit-preview-extra loaded
+2022-04-27T07:26:56.611Z - success: ui-kit-preview loaded
+2022-04-27T07:26:56.613Z - success: ui-kit loaded
+2022-04-27T07:26:56.616Z - success: vivo-runtime loaded
+2022-04-27T07:26:56.617Z - success: weapp-adapter loaded
+2022-04-27T07:26:56.617Z - success: xiaomi-adapter loaded
+2022-04-27T07:26:56.618Z - success: alipay-minigame loaded
+2022-04-27T07:26:56.649Z - success: assets loaded
+2022-04-27T07:26:56.651Z - success: builder loaded
+2022-04-27T07:26:56.805Z - success: cocos-services loaded
+2022-04-27T07:26:56.810Z - success: console loaded
+2022-04-27T07:26:56.831Z - success: fb-instant-games loaded
+2022-04-27T07:26:56.834Z - success: game-window loaded
+2022-04-27T07:26:56.835Z - success: google-instant-games loaded
+2022-04-27T07:26:56.838Z - success: hierarchy loaded
+2022-04-27T07:26:56.840Z - success: inspector loaded
+2022-04-27T07:26:56.841Z - success: keystore loaded
+2022-04-27T07:26:56.845Z - success: node-library loaded
+2022-04-27T07:26:56.845Z - success: package-asset loaded
+2022-04-27T07:26:56.846Z - success: preferences loaded
+2022-04-27T07:26:56.848Z - success: project-exporter loaded
+2022-04-27T07:26:56.851Z - success: project-importer loaded
+2022-04-27T07:26:56.853Z - success: project-settings loaded
+2022-04-27T07:26:56.856Z - success: scene loaded
+2022-04-27T07:26:56.857Z - success: simulator-debugger loaded
+2022-04-27T07:26:56.858Z - success: sprite-editor loaded
+2022-04-27T07:26:56.861Z - success: store loaded
+2022-04-27T07:26:56.865Z - success: timeline loaded
+2022-04-27T07:26:56.867Z - success: xiaomi-runtime loaded
+2022-04-27T07:26:59.363Z - info: Cocos Services load base data!
+2022-04-27T07:27:00.221Z - normal: Loading packages
+2022-04-27T07:27:00.225Z - normal: Watching packages
+2022-04-27T07:27:00.302Z - normal: Run Application
+2022-04-27T07:55:58.726Z - warn: The sprite component only supports the texture which imports as sprite type.
+2022-04-27T08:05:27.902Z - warn: The Label referenced by component "HelloWorld" is invalid. Detailed information:
+Node path: "Canvas"
+
+2022-04-27T08:06:06.519Z - warn: The Label referenced by component "HelloWorld" is invalid. Detailed information:
+Node path: "Canvas"
+
+2022-04-27T08:16:19.447Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2022-04-27T08:23:12.180Z - warn: The Label referenced by component "HelloWorld" is invalid. Detailed information:
+Node path: "Canvas"
+
+2022-04-27T08:24:51.129Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2022-04-27T08:24:54.547Z - warn: The Label referenced by component "HelloWorld" is invalid. Detailed information:
+Node path: "Canvas"
+
+2022-04-27T08:25:03.701Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "/Users/fresher-duclong/D1/build",
+  "debug": false,
+  "dest": "/Users/fresher-duclong/D1/build/web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "81adf764-550b-4b",
+  "zipCompressJs": true,
+  "project": "/Users/fresher-duclong/D1",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2022-04-27T08:25:03.703Z - normal: Building /Users/fresher-duclong/D1
+2022-04-27T08:25:03.703Z - normal: Destination /Users/fresher-duclong/D1/build/web-mobile
+2022-04-27T08:25:03.790Z - normal: Delete /Users/fresher-duclong/D1/build/web-mobile/subpackages/**/*,/Users/fresher-duclong/D1/build/web-mobile/**/*
+2022-04-27T08:25:04.965Z - normal: Start building assets
+2022-04-27T08:25:04.966Z - normal: Start spawn build-worker
+2022-04-27T08:25:05.423Z - normal: Finish spawn build-worker
+2022-04-27T08:25:05.423Z - normal: Start init build-worker
+2022-04-27T08:25:07.377Z - normal: Finish init build-worker
+2022-04-27T08:25:07.377Z - normal: Start build-assets in worker
+2022-04-27T08:25:07.548Z - normal: Finish build-assets in worker
+2022-04-27T08:25:07.551Z - normal: Finish building assets
+2022-04-27T08:25:07.556Z - normal: Start building plugin scripts
+2022-04-27T08:25:07.598Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2022-04-27T08:25:07.606Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2022-04-27T08:25:07.619Z - normal: Built to "/Users/fresher-duclong/D1/build/web-mobile" successfully
+2022-04-27T08:39:03.853Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:7875)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3757)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2022-04-27T08:39:24.746Z - warn: The Label referenced by component "HelloWorld" is invalid. Detailed information:
+Node path: "Canvas"
+
+2022-04-27T08:39:32.823Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "/Users/fresher-duclong/D1/build",
+  "debug": false,
+  "dest": "/Users/fresher-duclong/D1/build/web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "81adf764-550b-4b",
+  "zipCompressJs": true,
+  "project": "/Users/fresher-duclong/D1",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2022-04-27T08:39:32.826Z - normal: Building /Users/fresher-duclong/D1
+2022-04-27T08:39:32.826Z - normal: Destination /Users/fresher-duclong/D1/build/web-mobile
+2022-04-27T08:39:32.827Z - normal: Delete /Users/fresher-duclong/D1/build/web-mobile/subpackages/**/*,/Users/fresher-duclong/D1/build/web-mobile/**/*
+2022-04-27T08:39:33.893Z - normal: Start building assets
+2022-04-27T08:39:33.893Z - normal: Start spawn build-worker
+2022-04-27T08:39:34.338Z - normal: Finish spawn build-worker
+2022-04-27T08:39:34.338Z - normal: Start init build-worker
+2022-04-27T08:39:36.249Z - normal: Finish init build-worker
+2022-04-27T08:39:36.249Z - normal: Start build-assets in worker
+2022-04-27T08:39:36.415Z - normal: Finish build-assets in worker
+2022-04-27T08:39:36.417Z - normal: Finish building assets
+2022-04-27T08:39:36.421Z - normal: Start building plugin scripts
+2022-04-27T08:39:36.456Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2022-04-27T08:39:36.459Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2022-04-27T08:39:36.470Z - normal: Built to "/Users/fresher-duclong/D1/build/web-mobile" successfully

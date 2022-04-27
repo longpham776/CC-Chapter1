@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>12-2-pokemon-free-download-png-thumb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,315},{190,149}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{5,26},{190,149}}</string>
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+
+			<key>20274-6-legendary-pokemon-transparent-thumb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{200,171}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,14},{200,171}}</string>
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+
+			<key>20340-2-legendary-pokemon-hd-thumb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{191,315},{188,172}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{9,14},{188,172}}</string>
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+
+			<key>20535-2-legendary-pokemon-image-thumb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,172},{200,142}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,29},{200,142}}</string>
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+
+			<key>35984-2-anime-pokemon-file-thumb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{201,0},{177,200}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{11,0},{177,200}}</string>
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{512,512}</string>
+			<key>textureFileName</key>
+			<string>sprites.png</string>
+			</dict>
+		</dict>
+</plist>

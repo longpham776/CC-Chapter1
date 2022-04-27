@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "uwp1955070",
+    "texture": "83eebc75-abcd-46b3-8ad5-94f599541070",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1600,
+      1034
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1600,
+      1034
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

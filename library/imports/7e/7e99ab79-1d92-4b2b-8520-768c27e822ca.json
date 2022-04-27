@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "20535-2-legendary-pokemon-image-thumb",
+    "texture": "a20df92d-5b4e-4c59-a482-018029733dcc",
+    "atlas": "16177e90-998b-4c1f-888f-1241a9b610d0",
+    "rect": [
+      0,
+      172,
+      200,
+      142
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

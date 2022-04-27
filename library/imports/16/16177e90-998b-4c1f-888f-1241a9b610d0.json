@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "sprites.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "12-2-pokemon-free-download-png-thumb": {
+      "__uuid__": "c7265dc1-191c-4611-8cc8-47fc796ae99b"
+    },
+    "20274-6-legendary-pokemon-transparent-thumb": {
+      "__uuid__": "643aefac-6431-432c-bb13-c54e0930bec0"
+    },
+    "20340-2-legendary-pokemon-hd-thumb": {
+      "__uuid__": "ff125579-9a32-4786-8c39-dba18499987f"
+    },
+    "20535-2-legendary-pokemon-image-thumb": {
+      "__uuid__": "7e99ab79-1d92-4b2b-8520-768c27e822ca"
+    },
+    "35984-2-anime-pokemon-file-thumb": {
+      "__uuid__": "5b18b9aa-3a51-4008-b346-d1ebef7d8363"
+    }
+  }
+}
